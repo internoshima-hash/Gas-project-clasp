@@ -1,0 +1,24 @@
+{
+  "name": "my-gas-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "コード.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/internoshima-hash/Gas-project-clasp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/internoshima-hash/Gas-project-clasp/issues"
+  },
+  "homepage": "https://github.com/internoshima-hash/Gas-project-clasp#readme",
+  "devDependencies": {
+    "@google/clasp": "^3.3.0"
+  }
+}
